@@ -325,7 +325,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## Contact
 
-Sidhart Sami - [@sidhartsami](https://github.com/sidhartsami)
+Sidhart Sami - sidhart.sami@gmail.com
 
 Project Link: [https://github.com/sidhartsami/Library-Management-System](https://github.com/sidhartsami/Library-Management-System)
 
